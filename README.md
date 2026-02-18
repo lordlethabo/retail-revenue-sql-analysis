@@ -22,8 +22,7 @@ Retail businesses often underestimate the financial risk of product returns. Thi
 
 ### Business Insight
 
-Although returns account for only 1.96% of transactions, they represent
-8.42% of total revenue impact, highlighting material financial risk in
+This suggests return transactions are disproportionately high-value orders, posing material financial risk if unmanaged., highlighting material financial risk in
 return behavior.
 
 ------------------------------------------------------------------------
