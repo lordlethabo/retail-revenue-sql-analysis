@@ -2,10 +2,7 @@
 
 ## Project Overview
 
-This project analyzes retail transactional data using Google BigQuery to
-assess: - Data quality issues - Financial impact of product returns -
-Revenue trends and seasonality - Customer and product performance
-
+Retail businesses often underestimate the financial risk of product returns. This project quantifies the revenue impact of returns and identifies customer and product-level concentration risk using SQL in BigQuery.
 ------------------------------------------------------------------------
 
 ## Dataset Summary
